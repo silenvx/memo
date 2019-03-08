@@ -1,5 +1,5 @@
-#vim関連
-###選択範囲をclipboardにコピー(mac)
+# vim関連
+### 選択範囲をclipboardにコピー(mac)
 ```
 :'<,'>!pbcopy
 ```
